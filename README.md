@@ -4,6 +4,8 @@ A macOS menu bar app that puts your Brex cards one click away. View available ca
 
 > **Not affiliated with, endorsed by, or sponsored by Brex Inc.** This is an unofficial third-party client built on top of Brex's [public Developer API](https://developer.brex.com/) using a token you create yourself.
 
+![Brexel menu bar popover showing a list of cards](Resources/brexel-hero.png)
+
 ## Requirements
 
 - macOS 13 (Ventura) or later
