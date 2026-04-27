@@ -1,0 +1,9 @@
+.build/
+dist/
+.env
+.env.*
+DerivedData/
+*.xcuserdata/
+*.xcuserstate
+.DS_Store
+.claude/
